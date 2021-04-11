@@ -18,8 +18,6 @@ namespace Remap_Memory_Region
             //FormatGMRCode("H:\\test_dump.txt");
             ////quickSplit();
             //return;
-
-            //Console.WriteLine("Hello nigger");
             //Console.ReadKey();
 
             //Process[] processes = Process.GetProcessesByName("WowClassic");
